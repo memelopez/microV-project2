@@ -1,1 +1,17 @@
 /* Main styles */
+*,
+:after,
+:before {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 14px;
+  color: #555;
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: none;
+}
